@@ -1,0 +1,25 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuannhit/node-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuannhit/async-await/issues"
+  },
+  "homepage": "https://github.com/thuannhit/async-await#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
