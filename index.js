@@ -1,5 +1,5 @@
 let fs = require("fs");
-
+const a=0;
 console.log("Start demo app");
 
 let phepchia = (a, b) => {
